@@ -1,0 +1,72 @@
+Price Inefficiency
+
+===
+
+[00:00:00] Okay guys, welcome to the next installment of phase three. In this video, we're going to essentially cover inefficiency and just like a sponsored candle, and inefficiency can be mitigated, but I don't really like to call it a mitigation, even though it technically is, I don't know, it's just me. But you can very much so call, you know, the accounting of an inefficiency to be also be considered a mitigation.
+
+Because in the end of the day, it's all order flow. And that's, you know, obviously the next video. But I took a, a kind of a different approach with understanding inefficiencies. What I did with inefficiencies is I wanted to apply a a lot of the finance side, a lot of the macro side which I believe is a great foundation to understand the concept.
+
+And yeah, so essentially what you see on screen, right? Right. You see your price and your quantity. Essentially, you're supplying demand curves. P one, q1, right? Matches equilibrium, right? We [00:01:00] want price to remain at equilibrium in order to maintain a fair price delivery. What do I mean by that? I mean, in order for, you know, trends to continue, right?
+
+They obviously have to correct. So if you ever see a slippage, right? Oh, I not, you don't even have to call it a slippage. You can just call it a sudden volatility come in. You'll pretty much see that imbalance, right? That inefficiency, that, that, that point, which is not equilibrium right now, just depending on, on whether it's on the south side or the buy side, right?
+
+Determines with what exactly you're talking about with whether that's a shortage or surplus. Okay? Now, what do I mean by that? Okay, so looking at excess supply, right? Essentially what I mean with excess supply is when you have a, a big sell off, right? Excess supply, right? Demand, right? Pretty much you buy demand, you self supply.
+
+Just easiest way to put that. So when you have excess supply, you [00:02:00] have a slippage, you have an excessive amount of selling momentum, selling volatility, however you want to call it, right? Which is a result of p2, Q2 and q3, right? So notice that naturally we, or not equilibrium anymore, but because we have excess supply, we now have, we, we now have something that we call a surplus, right?
+
+So how do you fix that Surplus, right? Elam means you now need the inverse, which is a shortage. Right to bring price back to equilibrium. Okay? And the inverse of that would be excess demand. Excess demand, right? That just means a slippage to the upside. And a excessive volatility to the upside, right? So naturally, right, you get P two, q2, Q3 again.
+
+Right, but except now it's below equilibrium here, and that is considered a shortage, right? So to counteract a shortage, right, you need to stimulate it with surplus to bring it back into equilibrium. Okay? So I'm pretty sure a lot of, you're gonna be extremely confused about what I just said, [00:03:00] right? So let, let me try to break it down into actual terms.
+
+This is more so just for you to define the concept, to understand the concept from a macro perspective. But you know, not trying to apply it to market concepts. Okay? We have excess supply and we have excess demand, right? Like I said, we have balanced price action, right? Because we have a selloff and we have a buy, and you know, price is healthy, right?
+
+That's the easiest way to put it. Price is healthy, but when you see an excessive. Move to the downside or upside that is considered in inefficiency, right? So naturally, right? Like we said here in excess supply, requires a shortage, right? To recover price, to balance it out, to then continue fair delivery, balance delivery.
+
+Okay, now, so the other side, right? Balance, price, action to the upside, right? Natural order flow. Right now we have a shortage of demand making, you know, the price. Exponentially grow. So naturally in order to counteract [00:04:00] that, you need a surplus to stimulate the market to once again bring about balance, right?
+
+So once that balance is achieved, right, you now have balance delivery to the upside. Okay? So now that you understand the macro perspective, you now understand the drawings perspective, right? You now want to know how to apply it into your charts. Right. So just like a sponsored candle, right? You see this occur on any timeframe and it's, it, it obviously varies.
+
+In terms of if you see a, an efficiency on one timeframe, you may not see it on another, and I'm gonna come back to that. But anyways, before that, right? What did we just cover in the previous image, right? We see a shortage, which causes excessive. Demand to appear itself, right? So, right. You see that here, right?
+
+You see that excessive amount of [00:05:00] demand, right? Which causes the slippage, right? So naturally price us to rebalance itself before it continues, right? So just like a sponsored candle, you need or you prioritize that 50%, but you can also very much see the fulfillment, right? Is there a preferred No. Right.
+
+It really just depends on the per trading, on the timeframe that it, that the inefficiency is on and whether confluences realigns with it, right? Because for example, if you have a push down here, right? Let's say this is a quote unquote two hour timeframe sponsored candle, and we now have that bullish move to the upside, and now maybe this could be a mitigation here.
+
+Right. What that now that realigns with the inefficiency in place, right? You now want that 50% obviously, because it matches that. But you can also very well see that. So it's not about exactly what point you're using, it's about the reaction that's given so that then you can make plays based off it, right?
+
+A k a educated [00:06:00] decisions. So doesn't inefficiency have to fulfill itself? No. Right. But for the most part, I won't take an action if I don't see at least 50%. Right. If I see like just the, the open betaed, then I'm not gonna be really too interested. Just because of personal experiences, I haven't seen much success trying to trade in that manner.
+
+Right? And you can usually have that rebalance occur, right? Just like, let's say here, for example, right? So you see how the inefficiency is from WIC to wic, and you see that slippage, I like to see this B one candle, not multiple candles, right? So just like here you see that a, a quote unquote slippage here, right?
+
+With no wicks covering itself, right? Where you have the 50% leftover, you have the fulfillment leftover, right? So just because we didn't immediately tap it doesn't mean we're not gonna tap it in the long run, right? And so, At first, right? You're gonna notice a lot of these, right? Just like you see here, right?
+
+In, in, in inefficient price section is then fulfilled [00:07:00] immediately, right? So I just like to play, you know, after the inefficiency of left over, and I then have a reason to play towards it or play against it, right? By that, I mean this could have easily reversed here. Right. As you can see here, right? We even caused a reaction, right?
+
+But just because POIs give reactions does not mean they give follow throughs, which, which is why you care for that confluence aspect that essentially gives you, you know, that comfortability to want to execute that trade. So as you can see here, right? You know, I top the open then left, right? That means I'm not too interested.
+
+There's still inefficient pricing left over here. So naturally, as you can see, right, you now have the break of structure. Right. You have a potential EE on a bigger timeframe, you know, align that, I'm sorry, you know, align that with the 50%. Right, which is relatively where it is, right? And you can easily zoom in here and find any type of minor break of structure micro break of structure, scaling break of structure, [00:08:00] and then make plays based on that.
+
+And you can be a lot more conservative because now after this reaction, you know, have a narrative to play off of, you have your break of structure, you have a potential higher timeframe, sc you have your 50% inefficiency, you have the reaction, you have a lot of confluence to give that. Move to the upside.
+
+So now it's just about fighting the best entry for you to get that higher rr. Okay, so right, just like here, U SD cad, right? Notice this first example was on an entry day timeframe. Now notice we are in a scalping timeframe. As you can see here, WIC to wic, you can easily see the fact that we have that inefficiency covered right after.
+
+We essentially broke a structure point here, right? And the reason why I call that a structure point is because this low created that high, right? That was broken price naturally came back, fulfilled that inefficiency, right? Gave a scalping break of structure, even gave another pullback here, [00:09:00] and then created that lower low.
+
+Sorry guys, I just sneezed. So right, you have that scalping break of structure here, right? You now have that push down, pull back, continuation lower to aim for liquidity, right? Like we covered previously in this section. And then guess what? After that, right, the liquidity was cleared. We did not create an overall new low.
+
+Right, as you can see here, right? So what happens? This could have potentially taken that liquidity and then gave that immediate structure break, and now that's your liquidity grab, which incites that bullish movement. Okay? So, right, just trying to connect so far what we've talked about. And now as for our final example, right, this is now U S D P I on the daily timeframe, right?
+
+As you can see here, right? You have. A daily inefficiency, but you also have N H 12 inefficiency, right? So you're gonna tell me why is this right here? Not an inefficiency. [00:10:00] Okay. Well, like we said, I like it to be one candle. It is on this candle, right? But once we zoom in, right, you can see here that it's not just one candle.
+
+So there's a higher possibility that this is actually structured movement inside of these three candles, right? Whereas here, you can see it's a legitimate slippage to the upside. Right. So price naturally comes back to fill that, right? And then you now have another inefficiency here, which isn't shown there, but it was still fulfilled in the long run.
+
+So how do you know which timeframe to play off of? You don't, right? Plain fact. You, you don't know. Okay? And the best thing that you can do is focus on your controllable aspects. And use that to your advantage, right? It's not about me trying to sell into a poi. It's about me using the POIs to build a narrative to build a case that will give me a favorable outcome.
+
+Right? So although that's not necessarily the topic of this video, I felt like it was necessary, right? Because you never know what [00:11:00] kind of poi will hit will hit, right? But that's why we're gonna talk about order flow in the. Next video and, you know, hopefully that clears a lot up. But at the end of the day, the only way you're gonna know if whether or not a poi is valid is after doing extensive research, back testing, stress testing, and understanding your pair, understanding the time you're trading right, and just a bunch more other controllable aspects.
+
+Okay. So other than that, right I don't think I gave you a raw definition for inefficiency. So just call it, I mean, there really isn't a real definition from what you know, from what I have in my notes, right? But just keep in mind that the market revolves around balance. We've, we've brought that up in previous videos, right?
+
+So when you're looking for an inefficiency, look for that strong momentum, that strong volume. Right, because if that strong volume sustains itself right, and continues and doesn't just immediately come back and create a large wic down the road, that could be [00:12:00] a potential point of interest. So now you just have to now you just have to consider your structure, consider your other POIs, consider your.
+
+Time of day, you know, just other controllable aspects like we talked about, right? And finally, right? Your optimal entries or your optimal points of interest are 50% and the fulfillment, right? So just seeing in efficient pricing as a type of void that is supported by an impulsive move. Okay? So I guess I'll leave it at that and I'll see you guys in the next video.
+

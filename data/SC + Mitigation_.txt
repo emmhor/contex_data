@@ -1,0 +1,54 @@
+SC + Mitigation
+
+===
+
+[00:00:00] Okay guys, welcome to video number two of phase three. And this pretty much revolves around sponsored candles and what mitigation is. So a sponsored candle. Okay. I'm gonna start off by giving you definitions and then we'll go from there. The definition right, of a sponsored candle, right?
+
+Actually prior to that, right? Remember what we talked about? Last video? Last video, we brought up the fact that. We are bounded right by price time. Mm-hmm. And candle structure is shown obviously on trading view. We don't know where these big players are exactly executing. We don't know when the volume is being taken off.
+
+Right. And nothing of such, but just because we don't have the exact information does not mean that clues are not left behind based on that. Right. So right when we're referring to a sponsored candle, right? A sponsored candle right, is essentially the remnant, right? That a smart [00:01:00] money entity will leave behind after the distribution of orders, right?
+
+By distribution of orders that just mean executions management just anything of such. Okay, so when we're speaking about sponsored candles, these aren't just random candles, right? They have to follow specific rules. So the rules that I have here right are rule number one is a candle that takes out a previous liquidity, a previous candle, right?
+
+Rule number two is a candle that mitigates a previous sponsored candle or inefficiency. Inefficiencies we will cover I believe it's in the next video. But as for what mitigation means, mitigation is the process of accounting for previous orders. Right. And that is done through sponsored candles, right?
+
+And this is necessary to continue order flow and order flow will, I'm pretty sure we cover that after inefficiencies. So we'll come back to that. So right rule number two, a candle that mitigates a previous sponsored candle. [00:02:00] Right. Rule number three is there is a semi violent slash violent move in the opposite direction, right?
+
+This is a very important rule, right? Because if you see a type of sponsored candle, right, and then you see it's stole before, it then creates that move down, then it is not a sponsored candle, right? Like for example, in the, what you're looking at on screen, right? You see this final pushup. It could have mitigated something here on smaller timeframe, right?
+
+And then he created the move down. This candle is not a sponsored candle, right? This, well, the candle that I'm actually showing you right is, you know, it takes out a previous liquidity point, probably mitigated something, but as you can see, there are equal highs here. Remember, equal highs, equal lows, they are not influencers of price.
+
+There are, I mean, influencers of bias, they're only targets. Okay? But because I have no reason to want to buy this, this is not a target. Okay, so what happens? We see this GV candle take out a previous wick [00:03:00] here, liquidity, right? Potentially mitigate something here. Probably an extremely deeper replacement on a smaller timeframes.
+
+M 30, probably an extremely deeper replacement on M one. And then that led to a tructure break, right? That structure break right, creates your structural range, right? And all you're doing here right is using the candle. And the reason why I included this other WIC. Right. It's just because that's probably where I placed my stop loss.
+
+It would be very, very foolish in my eyes to only use the candle and not consider the wick because there's probably some, excuse me, there's probably something inside of that wick, right? So when people are telling you, right it's all in the wicks. Literally it's in the wick. So if you're able to see long wicks.
+
+Right. I don't have an example here, but if you're able to see long wicks break those wicks down, and like for example, if we were to say, here write a bearish candle with a very [00:04:00] decently long wick, that means there's probably a candle in there that could be of interest, right? So just keep that in mind.
+
+That's actually not something I was planning on telling you, but Oh well. But yeah. Anyways, Ray, one more thing about sponsored candles. A valid SC will cause a reaction, right? But just because you have a reaction does not mean you're gonna have a follow through, right? And that is something that, you know, the, the, the sooner you understand it, right, the, the quick, the more quicker it'll not only benefit you, but the quicker you'll learn to actually learn how to apply these, right?
+
+So notice I'm usually, you know, always focused on pro trend moves. Right. I don't like to, to go countertrend. Why? Because I'm thinking of the longevity behind trading, right? And yes, you can easily play ping pong intraday all day long, but you're exposing yourself to so much risk. And in the long run, that's not necessarily the most professional way of going about trade trading, your[00:05:00] your personal funds.
+
+And at the end of the day, Right. Especially because you guys for the most part, all of you know that I am a finance major and I am planning on going into the fund space, not opening a fund, but just going into the fund space. I'm trying to, to really not only train myself but by training myself also training you guys to, to think in that manner, think in a professional manner.
+
+So yeah, right. You guys see example number one, right? The candle here. Right. Took out previous liquidity, caused a semi violent move to the downside, creating a new structural range, right? Whereas we came back, we traced there and you know, usually creates a new, lower, low, taken out liquidity here.
+
+Okay? Right. Example two, right, as we can see here, right? Another example of relative equal lows here and then relative equal highs here. Right. So just because there's equal lows here does not mean I'm trying to sell to take this out. Why? Because if we're looking [00:06:00] at the high, the low, that is a structure break, right?
+
+This is probably a minor intraday structure break or a major intraday structure break here, right? Whereas this, these legs here are only minor intraday legs. All right? So, as you can see here, all right, focusing on the immediate structural range here. Right. 50% of this candle, right? As you can see here, a five and a half pip stop, right?
+
+Took out liquidity at seven to one, but this could have easily gone for so much longer. Okay, so just keep in mind, this is also the introductory part of Sponsored Candles. I am not gonna try, I'm trying really hard not to dive into other material. I'm trying to be very specific to only this topic. But as you can see here, right, I'm using the 50% because the 50% is for the most part the optimal point in a sponsored candle.
+
+And because of theory, oh, based on theory, right? The theory [00:07:00] behind that is essentially 50% is the average amount of volume in the candle. Why? Because in order for an, an SC to be created to cre to create that semi violent, that violent move, you need volume. Right. Meaning that you need volume to push down to mitigate something, take out some type of liquidity, right?
+
+To then cause that release to then give you another move to the, in the opposite direction, right? So that obviously leaves sale orders in the scenario. Sale orders stuck, right? So what's gonna naturally happen? Price will come back, mitigate, right? Mitigate to then continue trend. Okay? So onto our final example.
+
+Right. This is a, another good one here, right? Oops, sorry about that. Hopefully you guys did not hear me moving my mic. But anyways, right? Looking at this final move up, right? We see the pullback, we see the unwillingness, and then we see this very semi violent move here that [00:08:00] took out this level of structure, this level of structure, okay?
+
+So as you can see, the candle here took out previous liquidity, gave the semi violent move. Came back mitigated 50% right? Stopped. Lost, right above the high of the candle right there, right? Three and a half Pips, right? Which then created that one to 20 there. So yeah, very straightforward. For the most part, just I think one of the most important rules.
+
+I think I used to consider the most important rule to be accountable. That takes all liquidity. But it's all very subjective to how you End up learning these concepts, right. But for now, I'd say one of the most important rules is just understanding that semi violent, such violent move if you can see where that semi viol move occurs, right?
+
+And it's usually the candle right before that, or if you start zooming in, you can probably find something in there, right? It's obviously then subjective to each pair and each market condition, right? But obviously you guys have to back test and understand all of that for yourselves. [00:09:00] So I'll leave it at that and I'll see you guys in the next video.
+

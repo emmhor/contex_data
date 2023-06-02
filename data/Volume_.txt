@@ -1,0 +1,62 @@
+Volume
+
+===
+
+[00:00:00] Okay, guys, welcome to the next video of phase three, which is we're pretty much gonna cover volume. Everything in regards to volume right, and right. So volume is pretty much the, the main and only indicator that we're gonna use. Well, that I pretty much use, right? There's different types of volume.
+
+There's your fixed range, you know, your volume profile. There's different kinds and which are all very effective. You can all easily use that, especially with a yco perspective if you do your research on that. Not something I personally use. Maybe something I'll use in the future, but not necessarily something, you know, to, you know, worried about today.
+
+Because for the most part I just use regular volume. And this is essentially. An indicator that represents demand as imply in the form of, as you can see, tall or short bars. So Right, essentially when we're looking at volume, right? The primary focus right, is, well, pretty much the primary focus in terms of [00:01:00] time, right?
+
+I primarily use this during New York and, and London, because those are pretty much the main times I trade. But by all means, you can definitely use this during Asia session. You can use this honestly in any session. Because we aren't necessarily focused on quantities, we're focused on proportions.
+
+Right. And let me, and let me reiterate that with saying that for example, there, I don't know if you guys are, are too, How do I say Too involved with the external community, but a big thing as to why people don't use volume is because it doesn't show the quote unquote accurate numbers. Right. And in my opinion, if you want to go that route, then the price the price that you're legitimately looking at, at the broker, that, whether it's on Trading View, whether it's on MT four.
+
+Right. That's not accurate. Why? Because many brokers present different pricing, right? And so I don't think that's an issue. I just think that's a failure to understand. So I don't [00:02:00] use volume in terms of quantity. I use volume in terms of proportions, right? I like to compare what volume is doing to what price is doing.
+
+And if it doesn't make sense right, then usually the data can quote unquote reverse or give you any type of reaction. Right. And by proportions, right? I'm pretty much gonna talk about two different things, and that is stability and it's instability, right? So stability, right, is when the, essentially the volume supports the move at hand, right?
+
+Whereas instability occurs when the volume and price movement don't correlate. For example, high volume, low movement. Preferred. That's that's in my opinion, the one that I use the most. And then low volume, high movement. And that one could be misleading because you could be trading in a session that doesn't have much volume and you can, you know, be easily mistaken.
+
+So I highly prefer to use the high volume low movement just because it's, it's what I'm more accustomed to using.[00:03:00] But I just wanted to alert you of the low volume, high movement because maybe it could be something that could be useful to you down the road. Right. So now what do I mean by instability?
+
+Okay, so as you can see, right, we're looking at your U S D 15 minute timeframe, right? As essentially our current structure is technically up here because we created essentially a new structural range. Here, right? We came back into our discount, right? Created an exponential move to the upside. But as you can see, right, there is no demand supporting this upside move.
+
+So it doesn't realistically make sense for this to continue higher, right? So, Theoretically, if it does, if it's unstable, then naturally the direction isn't meant to go up. Maybe there's something that we are mitigating on a higher timeframe, right? But in reality, the move that is at hand that the, that is considered the real move is to the downside.
+
+Why? Because demand does not support the [00:04:00] upside move, and it creates instability and a reversal, right? Will it always create a reversal? No. Right. That's why this is only a type of confluence, just like an se, just like in inefficiency, right? They can all create reactions, but that doesn't necessarily mean you're gonna get a follow through, right?
+
+So yeah, essentially right here, as you can see, the diminishment of volume, right, creates the instability and price because price continues higher when demand is not shown right? Or demand is visibly diminishing in comparison to how impulsive this move is. Right. So example number two, right? U S D cad, as you can see, right?
+
+We are bearish, right? I highlighted this previous structural range, right? As you can see, we had the pullback. Right. Came into the premium, maybe mitigated something there. But then that created a break of structure on a smaller scale. Right. If you want to say, this is your minor in today, and this could be a s scalping break of [00:05:00] structure, completely up to you.
+
+But Right. What I'm focusing on here is the volume, right? So as you can see, right, we essentially, as we're coming down here, Right. We see the peak of volume as we're coming down of as we broke structure. As you can see, the bearish volume increases but then immediately diminishes as we are still essentially continuing lower.
+
+In price. So as price is continuing lower, bearish volume is diminishing, it doesn't make sense. It's unstable, right? So naturally you cause a bullish reaction, right? But because we are bearish, right? And you can now consider this to be a structural range inside of the overall structural range, right? You can now consider this to be the pullback to come into a potential point of interest, right?
+
+And keep in mind now that we essentially peaked in volume. Before we reach the high, right, so we're continuing higher. Right, but with no demand shown. [00:06:00] So naturally an instability in price fits structure, fits a potential point of stru, point of interest, and therefore creates downside movement, right? So here you can see the bearish instability create the bullish reaction that is considered a pullback of the new structural range.
+
+And from there you have bull bullish instability, I'm sorry, which is created by high demand at first, which then leads to a diminishment of demand. Right. So now you just need to find your excuse to risk and your probabilities of a favorable outcome pretty much immensely increase, right? So essentially, right instability is the quote unquote.
+
+When it, it was pretty much the, the ins unstable price in comparison to volume. I might have chopped that up a bit. I'm so sorry. But essentially, right, this is a very good confluence if you know how to use it, right, which is why you guys should be practicing this at first. But remember, at the end of the day, [00:07:00] this is an indicator and the fact that it is an indicator.
+
+Right. Shows that it is lagging, so that means that you don't get full closures and volume until the closure of the candle, no matter what timeframe you're on. Right. Also, a a pretty much a, a small note, right? If you notice example one, example two, right? Are both, you know, below your major intra day timeframes, right?
+
+Because I primarily use this. On, you know, on, on your minor in today, on your s scaling timeframes because right, if you start to zoom out, right? Let's say I have the example here, right? If you start to zoom out,
+
+the volume begins to make a lot less sense, right? Because right, there's so much happening inside of one candle that I think it's unfair to use this. Quote unquote analyzing a analyzation of of volume. I think that's not [00:08:00] essentially correct. I think you're trying to use too much information with one overall timeframe.
+
+So instead of me seeing a big bearish volume can or bar here, right? I'm more so focused on seeing what's happening inside, right? So I'm not using volume to help me determine trend. That's, that's the point of structure, right? I'm not necessarily trying to use that as a substitute for structure, so, right.
+
+I'm only using volume as a reason to give me a reaction inside of our lower timeframes so that then that creates a highly probable scenario. Right. So essentially now coming into our final example, right? This is essentially what I mean, right? So G P U S D'S 32nd timeframe, right? As you can see, right?
+
+Although we are bearish, right? This created a reversal, right? And by reversal, you know, that happened through the initial C climactic action of volume. Right. As you can see, [00:09:00] this low here, right? Created naturally creates a reaction because volume is essentially high in comparison to previous volume bars.
+
+And then that, you know, then created a new lower low, right? A new lower low is created, but volume is now not supporting it. So naturally it's gonna create a pop in the opposite direction. That's what we call the reaction. And as you can see, we took liquidity here. We took liquidity here, right? And we reacted, right, created unwillingness, and an immediate structure break.
+
+Now signifying a potential liquidity grab here, so I'm now showing an unwillingness to take out a previous low, which now obviously you're here. You come into the inefficiency fill as you can see, and that creates a move to the upside. Right. So that's me now connecting volume within inefficiency with a liquidity grab, right?
+
+So you see how this is all starting to connect together. And to me that's the most important part [00:10:00] because every single concept alone won't be enough in my opinion. I feel like you need to have that confluence whether it's to a structure, inefficiencies, scs, liquidity grabs, right, et cetera, et cetera, et cetera, to.
+
+Essentially try to justify a move as to why it should go in your direction, and inevitably that's what's gonna be the factor that causes you to win trades. Okay? So yeah. Other than that, that's pretty much concluding the volume video, and I'll see you guys in the next one.
+

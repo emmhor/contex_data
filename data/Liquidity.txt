@@ -1,0 +1,65 @@
+Liquidity
+===
+
+[00:00:00] Okay, guys, welcome to phase three. In this first video, we're going to cover liquidity, pretty much what it is, how it's used okay, so liquidity is a finance term, right? For the people that don't know. And it can, the meaning can slightly vary depending on what exactly you're talking about, whether that's a company, financial market or an individual investor or a group investor.
+
+Just anything along those lines. But it, it slightly varies. Okay. So when you're talking about foreign exchange, right? Liquidity in foreign exchange refers to, you know, by definition refers to a currency, pair's ability to be bought and sold without creating a major impact on its exchange rate, right? So a very simplified way of saying that liquidity is money, right?
+
+The more liquid a financial market is. Right. The more money is in that financial market, the less liquid a financial market is, [00:01:00] the less money there's their sitting. Okay, so what does that necessarily mean in terms of charts, right? So we know that foreign exchange, the foreign exchange of market, right, is the most liquid market in the world, right?
+
+And it's multiple times greater than the stock market, right? Which is essentially the. What everybody knows, everybody knows what the stock market is. Not everybody knows what the flox market is. Okay? So what does that necessarily mean? Right? What are the advantages of, you know, high liquidity being present in the foreign exchange market in comparison to the lower liquidity?
+
+And keep in mind, I didn't say low. I said lower just because there is still a lot of liquidity in the inside of stocks. All right? But, you know, pretty much the, the major advantages of trading any high liquid market are essentially that transactions, right, trades buys and sell can be completed quickly and easily.[00:02:00] 
+
+Right in comparison to other platforms other financial instruments which also implies that the transaction cost and the spreads are much lower. Right? So obviously depending on whatever cross you're, you're talking about, right, will will be very distinct in terms of liquidity, which is why we tend to stick to majors and minors over, over exotics.
+
+Right. If you tend to trade exotics, like, you know, off the top of my head USD are G P sec U s d, pln you know, just all those exotics, right? You're, you'll notice that there's a lot more manipulation in play. And by that I just mean there's a lot more wicks. You'll see bigger spreads, you'll see you know, candles not necessarily be filled.
+
+And by that I mean notice how here in your U S D for the most part, Right. There is no gaps in between candles. Whereas here in this apple slot, you see a ton of gaps, [00:03:00] right? So you'll see that, see those gaps a lot more often in you'll see those a lot more often in, in very low liquid assets. Very low liquid currency crosses, right?
+
+So, like I said, that's why we stick to pairs that are, you know, in the major and minor list. Okay, so now talking about liquidity in the actual chart, okay? Because we know that liquidity is money. We know that price must yield to, must yield and pursue lows to, you know, continue or highs, right? Obviously I'm saying Lowe's because that's what's shown on the image present, right?
+
+So the, the reason why I sh I pretty much preach structure above all, right? Especially, that's why it's in the, in phase one is because without structure you really cannot read liquidity. You can find liquidity, but you probably wouldn't be able to trade with it based on it, [00:04:00] right? Without knowing your structure.
+
+So as you can see here, right, I marked out the liquidity present based on excess. Okay. And the reason why I did that right, is because to me, liquidity is a target because we know that there are orders whether that's pending orders current orders, stop losses, you know, anything along those lines. We know those are stuck below lows and highs, right?
+
+So it's not a matter of knowing whether or not liquidity is gonna be taken. It's a matter of understanding whether or not. I mean, it's a matter of understanding when the liquidity is going to be taken. Sorry about that. So as you can see, right, you can see by the blue squares here, right? We have our low, our high, we have our breakup structure, then we have our pullback, right?
+
+So we then take out that previous structural low here, right? Which is liquidity 0.1. So what naturally happens after that? Right [00:05:00] after the correction, we have a new impulse, right? You have a new structural range, right? You then have another pullback, and now you're aiming for the liquidity sitting below the previous structural range low.
+
+Why? Because we are in a downtrend. Okay, so correction, impulse correction, new target, impulse correction, new target impulse. Okay, so now, right, we're gonna pretty much cover, you know, what equal lows and equal highs are. So with equal lows. Equal highs, right? The, the pre, the, whether, whatever you're talking about, whether it's a low or high, right?
+
+The first low and the, or the first high, right? Must not be broken by the second or third, high or low present, right? What do I mean by that? Well, just looking here, right? A scenario [00:06:00] essentially here on U S D cad, right where we see right equal highs, because the first high was not broken by the second or third present here.
+
+And we see here the low right, previous low, that wasn't taken out by either one, two, or three lows, right? So even though this low probably took out this low, it still did not take out the overall low. So now the. Orders pending below the slow are now added on to here. Me making this a much more probable area to be hit in, you know, the future, not near future, not long.
+
+Future in the future because we don't know that's something that, that I have to emphasize, right? Liquidity is not an influencer of bias. Liquidity is only a target. Okay, just remember that just because you have equal highs sitting does not mean they're gonna be taken out. But if you have signs showing bullishness that are aiming for those equal highs, then now you have a target.
+
+Right? So just see [00:07:00] liquidity, kind of like fuel. Whereas you know, the market needs that fuel in order to continue. Right. Just going back to the initial example, right? Our correction. Impulse. We take the fuel, we recharge, and then we release, right? We take the liquidity, take the fuel, we recharge, and then we release, right?
+
+We take the fuel, we recharge, right? And then we release. Okay? So I guess that's one of the simplest ways I can put it. But back to this example, okay? Right. We see liquidity here, right? What happens, right? We see. A very, you know, horizontal range here with probably relative equal lows there. Okay? So naturally price will take those out, but it'll also pursue these equal lows.
+
+Okay? So as you can see, the liquidity has now been taken, right? And we can now [00:08:00] go the other direction. Why? Because the liquidity for One Direction is now taken, right? We now have the fuel to pursue the other direction. Okay? So what happens here, right? The break of structure, right? The pullback, right? And then we pursue these next highs here.
+
+What does that now mean? We've now taken liquidity on both sides. I'm now focusing on the structural range at hand. Right. We just see the correction, which then creates bullishness. Okay? So just keep in mind, right, that liquidity will never ever be your influencer of a bias, right? But right. If, if you're, let's say, trying to buy, you know, equal lows, right?
+
+Keep in mind that, you know, the bearish order flow, which we will cover. You know also in this later in this section, right? If that bearish order flow is still intact, then it's going to take those lows, right? Doesn't matter [00:09:00] what you're playing off of, how you're playing it, right? You see these kind of as magnets.
+
+The only issue is we don't know the time, right? Because remember that pretty much every move is manufactured, every move has a reason to it. Right, but we don't know the timing, right? Which is why we can only play based on our advantages, right? Keep in mind, right, that because we're using Trading view, we're bounded by price, we're bounded by time, right?
+
+And we're bounded by the candle structures shown, okay? That that means that we don't know exactly where the money is, where the money is coming from, or how it's managed, right? So we can only play based off our strengths, right? So here, right, because we see this training range. We see the inducement take out equal lows, right?
+
+But we still acknowledge there's equal highs. So I'm not gonna try to sell here, right? Because I'm also paying attention to structure here, right? There is a high, there is a low, there is a high and there is a [00:10:00] low, right? So it's equal highs. So if I'm still trying to potentially play any type of poi, I would much rather have that than try to sell based off of that.
+
+Okay. Because as you can see, right, as you can see here, if you wanted to sell right, you would've gotten that reaction right? But because that bullish order flow is now in play based off of taking out liquidity here, right? This reaction is only a pullback to then take out that liquidity there, right? So hopefully it's not too confusing.
+
+But we see this, you know, ex a large amount of times just due to the fact that we have so much liquidity in this market. Okay. Another example here, right, with Euro G B P, right? So we see equal highs. We see equal lows. Okay? What happens? The equal highs, right, are taken here, right? We then have essentially equal lows come [00:11:00] into play, right?
+
+We now have. In unwillingness to continue higher, right? We also have equal lows here. So what happens? We drive price. Price is driven, I'm sorry to take out equal highs, right? You could say we have now caught the orders that created that final move, right? Which creates the release to the downside, right?
+
+So taking the fuel, right, we recharge and then we release. Right? Just very simple. But you know, for the most part, just look at liquidity, right? Refer to it as money, right? Not as something that influences your bias, right? And it's a, it can be a bit contradictive because you probably won't buy sometimes because you see equal lows, right?
+
+But that's for you to do your own research and make your own judgements. Okay? So other than that, Right there isn't really much to cover here. But just keep in mind, right, the, that when you have those equal lows, [00:12:00] those equal highs, right? Make sure that that second high, that second low does not take out the first one because then that could be easily misinterpreted as the liquidity grab, which we covered in the previous sections, right?
+
+So when you're talking about high probability liquidity points, always look for. You know, that second or third, low or high to not take out the first one. And obviously, you know, as you know, the, the higher the timeframe you're on the the more secure it is. Okay, so that pretty much wraps it up for this video and I'll see you guys in the next one.
+

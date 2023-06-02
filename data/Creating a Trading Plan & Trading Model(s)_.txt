@@ -1,0 +1,98 @@
+Creating a Trading Plan &amp; Trading Model(s)
+
+===
+
+[00:00:00] All right guys, welcome to the next video of phase five. So in this video we're gonna cover essentially your trading plans and your trading models. So a lot of people don't know that they're, that these are two different things. They aren't the same thing. Maybe I've confused that. And if I have, I'm sorry.
+
+But anyways, right, A trading plan, right? So the, the definition of a trading plan to me, right? A trading plan is essentially seen as your rubric, right? Essentially the rubric that has not necessarily your rules, but kind of what you try to look for as a whole. So like, as you can see with on screen here, right?
+
+This is something Carlos made. So Carlos, if you're watching this, which you definitely are thank you. This is actually a very good demonstration of the training plan that I showed you guys. And I think this is a great starter in terms of, you know, if you're brand new to the style as a whole, this is a great way to first you know, introduce yourself into [00:01:00] these concepts.
+
+With obviously breaking it down into five different sections, which is trend. Your entry, your trade management, your psychology, and your hours, right? So although this is a quote unquote, just like an example, right? I don't want you to take this to heart, right? With anything that you see here. I'd like you to let it be a guide and I want you to make your own trading plan based on these rules.
+
+So these are just essentially essentially what you're trying to look for inside of a market because. As a whole, you want a rule, rule-based plan, right? In order to see success long term, right? Systemizing to, you know, essentially optimize your performance, right? So as you can see here, trend analyze daily, we can structure follow H four structure, right?
+
+And that is not characterized as your structural levels, right? Which essentially means know your structural anatomy, right? And. Acknowledge your swing major intra dame minor intra [00:02:00] today, scalp timeframes. Right? And then play based on continuations over reversals. Just because at the end of the day, we don't have the necessary data to assume reversals a lot of the time.
+
+Right. Even though it's good, it's possible to see it. In hindsight, in real time it's a lot harder to see reversals. So best case, just assume continuation until you have that full confirmation. Right. And as your intuition builds, you'll be able to catch those reversals based on, you know, knowing disruption, knowing higher timeframe, POIs and stuff like that, right?
+
+But for the most part, right? You want those continuations because you want to essentially catch those winners, right? Those winners will build your confidence. And over time, right, you'll see that it's a lot more efficient to look for continuations over reversals, right? In terms of overall risk. What you're exposing yourself to, right?
+
+The probability of, of having a favorable outcome and your overall [00:03:00] win rate. So for the most part, follow those continuations, right? And as for entry, there's so many ways to enter a trade, right? Because you can either take the conservative approach or you can take the aggressive approach where you wait for reactions or when you essentially try to take trade just based on POIs alone, right?
+
+Whichever you see success with is fine. Obviously, I always recommend the conservative, especially as you're starting out, right? And then now when it falls to psychology being patient, only answer when your price hits. Right? Don't get FOMO because you get a scalp B Os 10 pips above your poi, right?
+
+Because at the end of the day that scalp, B os is a Bo os. Right. Or it may might even be a disruption, but just because you have that, that initial structure break doesn't necessarily mean you're gonna get the whole reversal. Right. So, like I said a lot of the time we don't have enough [00:04:00] data to assume reversal, so just assume continuation right.
+
+Until you obviously have the full confirmation. Right. So as a whole, a training plan is essentially just a rubric that essentially has all of the rules that you use, right? And this is a great, like I said, this is a great you know, reference to use. And if you're looking for this image, it's on the screen for one and two.
+
+It's actually in the pin messages of the community chat. Just scroll all the way down. It's gonna be probably the first one. So we'll just go from there. So part two, right, is a trading model. So the difference between a trading model and a trading plan, right, is a trading plan is your rubric, it's your rules, right?
+
+A trading model is the, is a sequence of price that follows specific rules, right? That generates. Potential outcomes. Right. And what do I mean with that? Is that after you've seen your pay, [00:05:00] your pair behaviors, after you've seen, you know, you've studied your pairs, right? You start to see specific sequences that you only see in certain pairs, right?
+
+Or even specific sequences that, that are effective in all pairs, right? But what's important is that you need to know exactly what you're trading and how you're trading it. So you're a lot more confident with the execution part, right? Because if you're, if you're linear in terms of, you know, overall thinking, where it's just trying to trade structural continuations, right?
+
+A lot of times it could fail. If you don't consider, obviously all the structural levels you don't consider positive POIs you don't consider bother you, right? So, Whenever you see a specific sequence that follows X amount of confirmations, I would call that a trading model. And it's a pretty much a repeated cycle that you see, right?
+
+And you're just trying to take the advantage to take the, to take those favorable trades, right? So right when we speak [00:06:00] on order flow, right? Order flow is the distribution of orders through mitigation, right? So like we said, the A model is essentially a unique sequence. Right where a distribution of price occurs, right?
+
+Not necessarily distribution in terms of woff, despite distribution by, in terms of order flow, where you see mitigation, mitigation, mitigation, right? So let's say, just off the top of my head, right, you will only take a trade when you're trading this model after three mitigations, that show strong order flow.
+
+That's a great way to, you know, go about an initial model, right? So the overall goal here, right, is to now take knowing your pairs to the next level, like we said, because you now understand your pair's behavior, right? So this allows you to accustom your eyes to quote unquote certain types of setups, right?
+
+Which, like we said, increases your confidence, right? And you know, et cetera, et cetera, et cetera, right? So I know this can be a bit confusing. So I actually made an example from one of my personal models. Right. [00:07:00] And this is actually a trade that I took about a month ago, right? And this model, right? I will only ever trade this model if I see.
+
+For one structural confluence. Two, you see at least a mitigation prior to the entry. And three, the minor structure or a disruption is already in play, right? Meaning that I have multiple confluences supporting this trade, and that is essentially the only reason and the only way I'm gonna take this trade, right?
+
+So for starters, right?
+
+We're looking at our M five and I see, right, that we are bullish, right? In terms of, I could probably consider this a minor intra day leg, potentially major intra day leg would be here, right? And after that minor intraday push, right? Or major intraday push, right? We see another one. Right. So this shows that we are [00:08:00] bullish, right?
+
+Not only that, but momentum is showing us to the upside because it's taking way longer to give us movement to the downside. So as we look left, we see a turbulence point, right? What we just covered unless this video is after that, I'm, I'm sorry guys, I'm doing these out of order. But we see the turbulence point, right?
+
+Mitigate, right. So once it mitigates, I'm zooming in.
+
+All right, and as I'm seeing the entire leg still being bearish, right? I'm trying to read the internal structure to give me some sort of sign of reversal. So because the overall leg is still bearish, I can only assume the bearish continuation, right? So you see the bearish continuation
+
+here. Right. So naturally I would've wanted to see order flow, react here [00:09:00] and give us a new low. That's the only way for me that that order flow would make sense in that, in that context. So as you can see, price wanted to reverse, right? Because you can see the reaction. Reaction, right? But no lower highs have been broken, right?
+
+So as we con, as this continues higher, this now disrupts the overall order flow right here. Right, which then takes out this leg here. So as you can see, we now have a disruption in price that even though we have that mitigation, right, this disruption is now giving me bullish signs based on an overall bullish push.
+
+So the narrative, the story that is being given to me here is that we're mitigating, we're creating disruption. We're already bullish. Right. So now I just need to find an entry. So because I'm acknowledging the disruption and I'm acknowledging a counter trend trade,
+
+right? We're not technically a counter trend. We're technically a pro trend as a whole, but in terms of [00:10:00] major or intra day here, in terms of this slide, I'm sorry, this minor intra day like here, right? I would consider it to still be bearish, right? But just because the minor in date doesn't shift. Doesn't necessarily mean you can't take the trade because you're overall still bullish, right?
+
+And your initial levels of structure have already shown that you are bullish, right? So as I'm essentially coming here, right, I'm now focusing on this leg here with this being a potential break of structure because it's already being supported by the higher timeframe. So the narrative, the story given in play is showing me signs of bullishness, right?
+
+So, Right. As you can see on M three, this is M three. Yes, M three, right. You see that we have an inefficient pricing set here, so there's two things that I can do, right? Because I was actually sleeping at this time, and I left a limit here. I actually left the limit here, right? Either I was sleeping or I had just falling [00:11:00] asleep when I was taking the entry, so I wasn't gonna stay up because as you can see, it's already.
+
+1:15 AM here and 1:30 AM for the conservative entry, which we're about to cover. So I'm not trying to stay up that late because you guys know I like to stay up for, I mean, wake up for early New York. So I took the execution here, which is four and a half Pips, or four Pips, I'm sorry, four Pips, right? Which then led to take out structure.
+
+I had 110 pips, right? Just off the bat, that's like a one to 27, right? If you would divide one 10 by four that's already a one to 27 overnight through London session in five hours. That's very efficient because I'm working with all the information that I have and I'm making it make sense for me.
+
+Right? So let's say this was during New York and I was up and I was able to essentially catch the conservative entry. So as we're zooming in, right, we have to see the reaction because we're playing based on the [00:12:00] reaction. That came from the reaction, right? Because we're coming from the overall turbulence point, right?
+
+So we're playing based on the reaction of the turbulence point, which created this, and we're now essentially finding a reaction based on the poi inside of the original reaction, right? Because below this, any poi does not make much sense to me. Right. Of course this could be a candle here, but I'm basing this only off of M one, and that's not an efficient way of going about your POIs.
+
+So if you're wanting to measure based on the reaction, right? As we're seeing here, we see an SC candle that pushes down, so we come back mitigate 50%. So naturally if order flow was bearish, right? Retrace, I mean high low retracement continuation. This did not create a new low, but instead came back to mitigate again.
+
+Right? So this second tap is signaling weak order flow, weak bearish order [00:13:00] flow. So this move to me is now considered inefficient, right? And as you can see, the volume from here has been diminishing, right? And even though this inefficient move here for me is showing an increase in volume, it's still below the original amount.
+
+So this is still overall diminishment giving me signs of a potential reversal. So we come into the poi, right? So we now have a ton of confluences in place and we have a break of structure, right? Actually there's an M two SC candle here, right? The re I went for the full wig, not just the candle. I went for that full wig too, just in case.
+
+But anyways, I went for the 50%.
+
+Right, the 50% here, and that led to the overall move. And this is actually much, a much better entry because it was actually, I believe, two and a half. [00:14:00] It would, it could have even been a two pip stop. So two pips stop on over a hundred pips. That's not one one. The A one to 50, I'm sorry, a one to 50. So that is a very, very great trade because you waited for the reaction.
+
+So you could see that just because I didn't catch the low. Or just because saying here, if I didn't catch the low and I caught the retracement entry, then right. You get a much better result because you're not just trying to guess the low. Right? Even though it's technic, it technically is guessing the low because the minor entry day and the scalp here is still bearish.
+
+Right? But we're still considering the overall structure. Whereas here you've waited for it to show its hand, show that momentum, and you're only catching the retracement so that then you get essentially zero drawdown for the full move. Right. So this trading model comes around, or essentially is based on playing based on a reaction.
+
+Based on a reaction, right? Which means or signifies the ideology[00:15:00] 
+
+of order flow, right? So I'm not gonna show you guys any other models outside of this. Because I want you guys to do their own due diligence and I want you to find your own models. Right? There is, I only trade probably about three to four models, just so you know. But for the most part, you guys should have at least two, I would say, right?
+
+Obviously the more the better, but you don't want to diversify yourself too, too much, right? So I want you guys to, essentially, the takeaway of this video is to understand price sequences. Right. That makes sense. Have been back tested, have been stress tested, so you have the confidence to take the trade right, without any type of fear.
+
+Right? And even if there is fear, it's minimal because you understand that you've been here before. Okay, so for the most part, that wraps up this video and I'll see you guys in the next one.
+

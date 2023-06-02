@@ -1,0 +1,47 @@
+Momentum
+===
+
+[00:00:00] Okay, guys, welcome to the next video of phase three, which is momentum. Momentum is is something I like to use generally with structure. And I essentially refer momentum, right as essentially the rate of change in terms of price, right over X amount of time. Right. So by that I mean, I'm measuring the distance that price goes and how long it takes for it to go there, right?
+
+Distance, time and price are pretty much the, the main dimensions that you see in price, outside of behaviors and all that. But we'll cover that later on, right? But for the most part, Right. The, the dimensions that are provided to us inside of a chart are your price, right? Are the fluctuations of price, right, which is the distance, right?
+
+And then the time, which is how long, right? Whether it's how long an impulse takes, how long a correction takes, how long, you know, anything takes. And so I've essentially broken down momentum into two different [00:01:00] things, and there's high momentum and there's low momentum, right? High momentum, right is low time high movement, right?
+
+Which is essentially a strong, impulsive move. Right. And low momentum is a high time low movement move, which is essentially corrective structure per se, right? And you always want to correlate your momentum with structure, right? Because you never wanna get confused. And to think that just because you have low momentum doesn't mean that you, the direction can't be completely reversed.
+
+And we'll cover that in a bit. But essentially, right as, as the basics part, right? As we can see. Right. Looking at the dimensions at at play, I'm seeing an impulsive move, right? Low time, high movement. Right. And this now, and this also creates a breaker structure, so it's now aligning, right, with a breaker structure and high momentum, right?
+
+That is something I also like to refer to as showing its hand, right? Is seeing momentum, seeing structure align. Maybe even a liquidity grab, maybe even a mitigation, right? But the main principle behind showing [00:02:00] its hand, right, is to see momentum. Right. It's to see, essentially intent to want to see higher, see a reason to want to go higher, right?
+
+So we see the intent to want to go higher. We see the structure points here and here be taken out. Right? Because for example, I consider this a structure point, right? Even though I have it classified as the same here, right? This could also be the start of the init of the entire leg. Why? Because this essentially, this high took out the previous leg low, right?
+
+So I see this as one full leg, and I see this as the immediate range, right? Which is why I'm highlighting that. So we not only took that, but we also took this. Right. So we now have the structural range in play here, right? So high movement, low volume, I mean high movement, low, I mean high, I'm sorry, low time, high movement, right?
+
+You see you have the impulsive move, right? Low time, high movement, right? Whereas now the correction, right, is high time low movement, [00:03:00] right? So structure and momentum are aligning at the same time, right? Which means that. Theoretically, if I have an impulse to move to the upside, I have it correct to move to the downside, then theoretically my move should, or essentially the direction of price should continue to be up, right?
+
+So this is trying to be, it's a very linear way of seeing the market, and I think it's a very good starting point for a lot of you because you're gonna see momentum shift over time. Because like, for example, with our next example, right now we're looking at A D U S D at a H four, right? As you can see.
+
+Right. We had a high here that took out a previous low, which then created a new high. So this creates my overall structural range, right? We took out that previous structure point there. Only some smaller timeframe, right? So we now have low time, high mo, high movement, high volume, high momentum, right?
+
+Doesn't really matter how you want to look at it. And now, right? As you can see, the corrective move doesn't really have much structure to it. [00:04:00] Right. So as we can see, high time low movement, right? So where is momentum clearly to the upside, right? So it's something that I think is very, very good to correlate with structure, like I said, right?
+
+And it can really clear up the picture as to where you should be looking for price, right? But just because momentum is going one direction does not necessarily mean you can reverse, right? And let me show you an example of that right here we have Euro, U S, D. Right. So as we're looking right, essentially our structure points here has been taken out, right?
+
+High movement low time, right? And that has created intent and wanted to show us that price can go higher, right? So we now are essentially in this entire range here, right? But if we're continuing order flow, Right. You could see one, two, right? Potential mitigation here, right? A potential mitigation here, because order flow [00:05:00] is still to the upside.
+
+So you would naturally want to see price mitigate one of these two areas, right? So for clarity's sake and for it to be simple about it here, right? You could say there is a candle of interest here,
+
+right? Candle of interest here. Bright momentum, right? Definitely. You see high time low movement. Right. But as you can see, the internal structure, right, where that could be your stru, your, your I'm sorry, your micro, or it could even be your scalp. Well, as you can see, right lower, high, lower low, lower high, lower low, right?
+
+And as you can see, this high did not create a new low, but we actually came and essentially caught a liquidity grab. And created price lower. So we've now taken out the two potential places of mitigation that is now a disruption, right? And because we took the initial leg out here, that's now a break of structure to the downside, right?
+
+So my new immediate [00:06:00] range
+
+is here, right? High movement, low time, right? So now as you can see, momentum has now shifted to the downside. So because this is struggling so much to give you an upside move, right? It shows you that momentum is clearly to the downside and if you want to add more detail to it, right? Being inside of that range,
+
+right? You could say, right, that this is the pullback here. We now have a break of structure, right? We now have an SC here. Right. We now have 50% of our se, right? So we're now using structure. We're using momentum, right? We're using an SE that follows the rules here, right? And this now creates bearish order flow bearish movement, right?
+
+Because we [00:07:00] correlated everything together. So that is what I mean with confluence, right? So for the most part, just remember low time, high movement, high time, low movement. Right, the difference between a strong move, an impulsive move, and a corrective move. So yeah, just always make sure you're correlating structure with it and you're, and you're justifying what you're doing.
+
+If you cannot justify what you're doing, then there is no legitimate reason as to why you should take that. And that's just logic, in my opinion. That's just common sense. But yeah, for the most part, that concludes the momentum video, and I'll see you guys in the next video.
+
